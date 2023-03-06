@@ -1,6 +1,5 @@
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/stats?cursusId=21&coalitionId=234" alt="mehaydin's 42 stats" /></a>
-
 <h1 align="center">Hi 👋, I'm Mehmet Yücem</h1>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/stats?cursusId=21&coalitionId=234" alt="mehaydin's 42 stats" /></a>
 - 🌱 I’m currently learning **C, Kotlin**
 
 <h3 align="left">Connect with me:</h3>

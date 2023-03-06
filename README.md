@@ -1,5 +1,5 @@
 ### Hi there 👋
-[[![made-with-python](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.python.org/)](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 <!--
 **yucOx/yucOx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

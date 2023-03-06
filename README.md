@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Yücem</h1>
 
-- 🌱 I’m currently learning **C, Kotlin**
+<p align="center">- 🌱 I’m currently learning **C, Kotlin**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

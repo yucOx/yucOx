@@ -16,6 +16,10 @@
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/stats?cursusId=21&coalitionId=234" alt="mehaydin's 42 stats" /></a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=your-yucOx&color=blueviolet&style=for-the-badge)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
- ![](https://komarev.com/ghpvc/?username=your-yucOx&color=blueviolet&style=for-the-badge)
+ ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
+ ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ 
 

@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mehmet Yücem</h1>
+<h1 align="center">Hi 👋, I'm Mehmet Yücem ![](https://komarev.com/ghpvc/?username=your-yucOx&color=green) </h1>
 
 <p align="center"> 🌱 I’m currently learning **C, Kotlin**
 
-![](https://komarev.com/ghpvc/?username=your-yucOx&color=green) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

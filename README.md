@@ -2,7 +2,7 @@
 
 <p align="center"> 🌱 I’m currently learning **C, Kotlin**
 
-<p align="center"  ![](https://komarev.com/ghpvc/?username=your-yucOx&color=green) </p>
+![](https://komarev.com/ghpvc/?username=your-yucOx&color=green) 
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Yücem </h1>
  
-<p align="center"> 🌱 I’m currently learning **C, Kotlin**
+<p align="center"> 🌱 I’m currently learning **C, C++ and Kotlin**
 <p align = "center"> I'm not professional in C lang. but i can say; I'm proficient at it:)
 
 

@@ -19,7 +19,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  ![Alt Text](https://media.tenor.com/vccXXc0J96IAAAAC/wano-luffy-wano.gif)
+
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>

@@ -4,6 +4,7 @@
   <strong>I’m currently learning **C, C++ and Kotlin**</strong>
   <br>
   I'm not professional in C lang, but I can say; I'm proficient at it:)
+  <img align="right" height="150" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif"  />
 </p>
 
 <h3 align="center">Connect with me:</h3>

@@ -5,7 +5,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" alt="gif" width="400" height="225" />
+  <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" alt="gif" />
 </div>
 
 <h3 align="center">Connect with me:</h3>

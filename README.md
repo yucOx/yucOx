@@ -4,9 +4,9 @@
 <p align = "center"> I'm not professional in C lang. but i can say; I'm proficient at it:)
 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mehmet-yücem-aydin-687832251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-yücem-aydin-687832251" height="30" width="40" /></a>
 <a href="https://instagram.com/mehmetyucemaydin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehmetyucemaydin" height="30" width="40" /></a>
 </p>
 

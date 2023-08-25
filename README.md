@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet Yücem </h1>
-<img src="https://media.tenor.com/vccXXc0J96IAAAAC/wano-luffy-wano.gif" alt="gif" width="300" height="150" />
+<div align="center">
+  <img src="https://media.tenor.com/vccXXc0J96IAAAAC/wano-luffy-wano.gif" alt="gif" width="300" height="200" />
+</div>
 <p align="center">
   <strong>I’m currently learning **C, C++ and Kotlin**</strong>
   <br>

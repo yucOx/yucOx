@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Mehmet Yücem </h1>
 
 <p align="center">
   <strong>I’m currently learning **C, C++ and Kotlin**</strong>
@@ -7,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QYPickEOksXNm/giphy.gif" alt="gif" width="600" height="200" />
+  <img src="https://media.giphy.com/media/5pRnyEv3ZxO0g/giphy.gif" alt="gif" />
 </div>
 
 <h3 align="center">Connect with me:</h3>

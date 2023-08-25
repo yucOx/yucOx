@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QYPickEOksXNm/giphy.gif" alt="gif" width="300" height="200" />
+  <img src="https://media.giphy.com/media/QYPickEOksXNm/giphy.gif" alt="gif" width="400" height="200" />
 </div>
 
 <h3 align="center">Connect with me:</h3>

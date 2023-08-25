@@ -2,7 +2,6 @@
 <p align="center">
   <strong>I’m currently learning **C, C++ and Kotlin**</strong>
   <br>
-  I'm not professional in C lang, but I can say; I'm proficient at it:)
 </p>
 
 <div align="center">

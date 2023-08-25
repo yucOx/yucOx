@@ -6,6 +6,10 @@
   I'm not professional in C lang, but I can say; I'm proficient at it:)
 </p>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/QYPickEOksXNm/giphy.gif" alt="gif" width="300" height="200" />
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mehmet-yücem-aydin-687832251" target="blank">
@@ -16,10 +20,8 @@
   </a>
 </p>
 
-
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -27,13 +29,9 @@
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  
 </div>
 
- 
-
-
-<p align= "center">
+<p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9goquqf00540fmp6v4syivq/stats?cursusId=21&coalitionId=234" alt="mehaydin's 42 stats" /></a>
 </p>
 
@@ -50,6 +48,3 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
   <img src="https://komarev.com/ghpvc/?username=your-yucOx&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
-
- 
-

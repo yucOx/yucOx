@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/QYPickEOksXNm/giphy.gif" alt="gif" width="300" height="200" />
-</div>
-
 <h1 align="center">Hi 👋, I'm Mehmet Yücem </h1>
 
 <p align="center">

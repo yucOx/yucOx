@@ -19,7 +19,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-<img align="right" height="150" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>

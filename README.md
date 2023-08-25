@@ -5,7 +5,7 @@
   <br>
   I'm not professional in C lang, but I can say; I'm proficient at it:)
 </p>
-<img align="right" height="150" src="https://media.giphy.com/media/WmkEhAIyWfpm1vdVcg/giphy.gif"  />
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/mehmet-yücem-aydin-687832251" target="blank">

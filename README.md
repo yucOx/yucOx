@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>I’m currently learning **C, C++ and Kotlin**</strong>
+  <strong>Mobile App Developer, *Kotlin, C, C++* **</strong>
   <br>
 </p>
 

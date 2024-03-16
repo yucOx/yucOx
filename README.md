@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>Mobile App Developer, *Kotlin, C, C++* **</strong>
+  <strong>Android Application Developer, *Kotlin, C, C++* **</strong>
   <br>
 </p>
 

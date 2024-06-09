@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>Android Application Developer, *Kotlin, C, C++* **</strong>
+  <strong>Full Stack Android Application Developer, *Kotlin, C, C++* **</strong>
   <br>
 </p>
 

@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>Full Stack Android Developer, *Kotlin**</strong>
+  <strong>Android Developer with Backend Skills, *Kotlin, Spring Boot**</strong>
   <br>
 </p>
 

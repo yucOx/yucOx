@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>Android Developer with Backend Skills, *Kotlin, Spring Boot**</strong>
+  <strong>Founder & Principal Engineer at Yuxor | Building unified AI platform | Full-stack architect **</strong>
   <br>
 </p>
 

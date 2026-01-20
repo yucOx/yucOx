@@ -1,6 +1,6 @@
 
 <p align="center">
-  <strong>Founder & Principal Engineer at Yuxor | Building unified AI platform | Full-stack architect **</strong>
+  <strong>Founder & CEO at Yuxor | Building unified AI platform | Full-stack architect **</strong>
   <br>
 </p>
 

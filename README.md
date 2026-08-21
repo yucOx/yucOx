@@ -8,9 +8,6 @@
 
 <img src="https://y.getyarn.io/cb4863c5-faab-41f6-affc-019243d84a03_text.gif" width="500" alt="" />
 
-<a href="https://linkedin.com/in/mehmet-yücem-aydin-687832251" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
 
 ### ⚡ Stack
 

@@ -1,6 +1,3 @@
-<div align="center">
-
-# Mehmet Yücem Aydın
 
 **Technical Founder & CEO @ Yuxor** — building a unified AI platform.
 

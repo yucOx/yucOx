@@ -1,3 +1,4 @@
+<div align="center">
 
 **Technical Founder & CEO @ Yuxor** — building a unified AI platform.
 
